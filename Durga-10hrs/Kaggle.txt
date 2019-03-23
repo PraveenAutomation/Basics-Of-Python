@@ -1,0 +1,11 @@
+What is CareerCon?
+Kaggle CareerCon is a totally free, 
+totally digital three-day event that's all about helping 
+new data scientists land their first data science jobs. 
+This year the event will be held from April 16 - 18th. 
+In addition to the seminars and panel discussions, 
+we'll be holding live coding workshops covering practical, 
+professional data science skills. 
+You'll also gain access to the Event Slack Channel 
+where we'll hold a digital career fair for networking and 
+live AMAs with recruiters.
